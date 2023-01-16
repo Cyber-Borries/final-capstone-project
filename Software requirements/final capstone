@@ -1,0 +1,3 @@
+An application that a store owner can use to keep track of inventory. A normal end-user may be able to see when certain stock is running low and order new stock. An administrator would be able to add an item to the inventory, set the thresholds for stock, decide to no longer stock certain items, and change pricing.
+
+Steps to creating the app:
